@@ -4,5 +4,13 @@
     ],
     "python.analysis.extraPaths": [
         "/opt/ros/kinetic/lib/python2.7/dist-packages"
-    ]
+    ],
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "clocale": "cpp"
+    }
 }
