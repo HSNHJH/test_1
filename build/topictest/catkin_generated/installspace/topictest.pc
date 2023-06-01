@@ -1,0 +1,8 @@
+prefix=/home/dasheng/neu_ws/install
+
+Name: topictest
+Description: Description of topictest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
