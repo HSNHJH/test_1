@@ -6,12 +6,38 @@
 
 #IncludeRegexTransform: 
 
+/home/dasheng/neu_ws/devel/include/topictest/person.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+
 /home/dasheng/neu_ws/src/topictest/src/hjh_talker.cpp
 ros/ros.h
 /home/dasheng/neu_ws/src/topictest/src/ros/ros.h
 std_msgs/String.h
 /home/dasheng/neu_ws/src/topictest/src/std_msgs/String.h
 sstream
+-
+iostream
+-
+string
+-
+topictest/person.h
+/home/dasheng/neu_ws/src/topictest/src/topictest/person.h
+ctime
+-
+stdio.h
 -
 
 /opt/ros/kinetic/include/ros/advertise_options.h
