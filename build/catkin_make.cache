@@ -1,2 +1,2 @@
-helloworld:topictest
+helloworld:servicetest:topictest
 -DCATKIN_DEVEL_PREFIX=/home/dasheng/neu_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dasheng/neu_ws/install -G Unix Makefiles
